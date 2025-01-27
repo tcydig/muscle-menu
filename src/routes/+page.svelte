@@ -25,7 +25,7 @@
     </div>
     <div>
       <h1 class="text-5xl font-bold text-shadow pt-32">What is this site?</h1>
-      <h5 class="pt-10 text-xl font-semibold">このサイトは誰もが筋トレに挑戦しやすく！を目標しています。<br>素晴らしい筋トレーニーの皆さんから頂いたメニューを公開する事で、初心者でもそれぞれの目標に合った筋トレメニューを実施する事が出来ます！</h5>
+      <h5 class="pt-10 text-xl font-semibold">このサイトは誰もが筋トレに挑戦しやすく！を目標にしています。<br>素晴らしい筋トレーニーの皆さんから頂いたメニューを公開する事で、初心者でもそれぞれの目標に合った筋トレメニューを実施する事が出来ます！</h5>
     </div>
   </div>
 </section>
