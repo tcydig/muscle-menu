@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   height="972"
+   width="712"
+   version="1.1"
+   id="svg14"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14">
+    <rect
+       x="243.82642"
+       y="776.23962"
+       width="425.31016"
+       height="252.40741"
+       id="rect21" />
+  </defs>
+  <clipPath
+     id="a">
+    <rect
+       height="960"
+       rx="20"
+       width="700"
+       x="6"
+       y="6"
+       id="rect1" />
+  </clipPath>
+  <g
+     clip-path="url(#a)"
+     id="g14">
+    <rect
+       fill="#f7f7f5"
+       height="960"
+       rx="20"
+       width="700"
+       x="6"
+       y="6"
+       id="rect2" />
+    <path
+       d="m -318.935,-211.13 h 1073.2 v 1037.2 h -1073.2 z"
+       fill="#c494d6"
+       id="path2"
+       transform="rotate(-13.32,-318.93499,-211.13)"
+       style="fill:#b3ff80" />
+    <g
+       stroke="#323537"
+       stroke-width="12"
+       id="g13" />
+    <text
+       xml:space="preserve"
+       style="font-size:96px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#141414;stroke-width:26.5;stroke-dasharray:none;stroke-opacity:0"
+       x="0"
+       y="0"
+       id="text19"><tspan
+         id="tspan19"
+         x="0"
+         y="0">腕</tspan><tspan
+         x="0"
+         y="120"
+         id="tspan20" /></text>
+    <text
+       xml:space="preserve"
+       id="text21"
+       style="font-size:96px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect21);fill:#1a1a1a;stroke:#141414;stroke-width:26.5;stroke-dasharray:none;stroke-opacity:0"
+       transform="matrix(1.4103859,0,0,1.4103859,-240.23978,-475.35925)"><tspan
+         x="243.82617"
+         y="870.74023"
+         id="tspan2">ハムスト</tspan><tspan
+         x="243.82617"
+         y="997.65649"
+         id="tspan3">リングス</tspan></text>
+  </g>
+  <rect
+     height="960"
+     rx="20"
+     stroke="#323537"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="12"
+     width="700"
+     x="6"
+     y="6"
+     id="rect14" />
+</svg>
